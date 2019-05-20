@@ -79,7 +79,7 @@ int val5;    // variable to read the value from the analog pin
 
 
 void setup() {
-   
+'''   
 
   Serial.begin(9600); // to print the serial values for testing 
 
@@ -89,12 +89,12 @@ void setup() {
   Servo4.attach(5);
   Servo5.attach(6);
   Servo6.attach(8);
-  
+'''  
 
 }
 
 void loop() {
- 
+'''
   val0 = analogRead(potpin0);            // reads the value of the potentiometer (value between 0 and 1023)
   val0 = map(val0, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
   Servo1.write(val0);                  // sets the servo position according to the scaled value
@@ -137,5 +137,5 @@ void loop() {
   Serial.print(val5);
   Serial.print("\t");
   Serial.println("\n");
-
+'''
 }
