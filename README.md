@@ -8,7 +8,6 @@ I searched the internet for tutorials on making a robot arm, this was my first t
 
 My project overall was a 3D printed robot arm with potentiometers attached to a lazer cut control panel used to control 6 servo motors
 
-![](Images/image1.jpeg)
 
 I enjoyed doing it and I am glad that I 3D printed it becauase that made me lean the skills I also wanted to learn which means that I learnt a great combination of electronics, woodwork, modeling and laser cutting (making the sketches for it) from the class. 
 
@@ -35,7 +34,25 @@ List of important parts:
 6. power supply
 7. USB cable 
 
+# Pictures
 
+![](Images/image1.jpeg)
+![](Images/image2.jpeg)
+![](Images/image3.jpeg)
+![](Images/image4.jpeg)
+![](Images/image5.jpeg)
+![](Images/image6.jpeg)
+![](Images/image7.jpeg)
+![](Images/image8.jpeg)
+![](Images/image9.jpeg)
+![](Images/image10.jpeg)
+![](Images/image11.jpeg)
+![](Images/image12.jpeg)
+![](Images/image13.jpeg)
+![](Images/image14.jpeg)
+![](Images/image15.jpeg)
+![](Images/image16.jpeg)
+![](Images/image17.jpeg)
 
 # The code:
 
