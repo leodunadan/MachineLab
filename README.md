@@ -34,25 +34,54 @@ List of important parts:
 6. power supply
 7. USB cable 
 
+
 # Pictures
 
 ![](Images/image1.jpeg)
+
 ![](Images/image2.jpeg)
+
 ![](Images/image3.jpeg)
+
 ![](Images/image4.jpeg)
+
 ![](Images/image5.jpeg)
+
 ![](Images/image6.jpeg)
+
 ![](Images/image7.jpeg)
+
 ![](Images/image8.jpeg)
+
 ![](Images/image9.jpeg)
+
 ![](Images/image10.jpeg)
+
 ![](Images/image11.jpeg)
+
 ![](Images/image12.jpeg)
+
 ![](Images/image13.jpeg)
+
 ![](Images/image14.jpeg)
+
 ![](Images/image15.jpeg)
+
 ![](Images/image16.jpeg)
+
 ![](Images/image17.jpeg)
+
+
+
+# Models 
+
+All the 3D models are here https://github.com/leodunadan/MachineLab/tree/master/FinalProject/Models
+
+
+# Video tutorial 
+
+This was the video that I based my project on  https://www.youtube.com/watch?v=KKuJuLZTK2M
+
 
 # The code:
 
