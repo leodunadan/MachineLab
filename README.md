@@ -83,7 +83,7 @@ All the 3D models are here https://github.com/leodunadan/MachineLab/tree/master/
 This was the video that I based my project on  https://www.youtube.com/watch?v=KKuJuLZTK2M
 
 
-# The code:
+# The code
 
 ```
 
