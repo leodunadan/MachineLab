@@ -8,7 +8,7 @@ I searched the internet for tutorials on making a robot arm, this was my first t
 
 My project overall was a 3D printed robot arm with potentiometers attached to a lazer cut control panel used to control 6 servo motors
 
-(picture) 
+![](Images/WhatsApp Image 2019-05-21 at 8.11.08 PM.jpeg)
 
 I enjoyed doing it and I am glad that I 3D printed it becauase that made me lean the skills I also wanted to learn which means that I learnt a great combination of electronics, woodwork, modeling and laser cutting (making the sketches for it) from the class. 
 
