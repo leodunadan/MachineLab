@@ -76,6 +76,7 @@ List of important parts:
 # Models 
 
 All the 3D models are here https://github.com/leodunadan/MachineLab/tree/master/FinalProject/Models
+3D models were obtained from https://www.electromaker.io/project/view/robot-arm
 
 
 # Video tutorial 
